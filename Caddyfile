@@ -1,0 +1,13 @@
+:2015 {
+    bind 0.0.0.0
+    gzip
+    root .
+    
+    git {
+        repo https://threefoldtech/www_inid.io.git
+        branch development
+        hook /webhook "test9278"
+        key ~/.ssh/id_rsa
+        path . 
+    }
+}
