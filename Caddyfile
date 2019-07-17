@@ -6,7 +6,7 @@
     git {
         repo https://github.com/threefoldtech/www_inid.io.git
         branch development
-        hook /webhook "zU3687$aJEb6"
+        hook /webhook "test9278"
         key ~/.ssh/id_rsa
         path . 
     }
