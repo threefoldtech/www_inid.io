@@ -1784,6 +1784,11 @@ body {
 .cid-rvZKd1IZVV .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 992px) {
+  .cid-rvZKd1IZVV .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 6.9rem);
+  }
+}
 .cid-rvZKd1IZVV .collapsed button.navbar-toggler {
   display: block;
 }
@@ -2201,6 +2206,11 @@ body {
 .cid-rvob0gXfSy .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-rvob0gXfSy .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-rvob0gXfSy .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 6.9rem);
+  }
 }
 .cid-rvob0gXfSy .collapsed button.navbar-toggler {
   display: block;
@@ -2773,6 +2783,11 @@ body {
 .cid-rwyYUSSY9I .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-rwyYUSSY9I .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-rwyYUSSY9I .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 6.9rem);
+  }
 }
 .cid-rwyYUSSY9I .collapsed button.navbar-toggler {
   display: block;
@@ -3499,6 +3514,11 @@ body {
 .cid-rvomYpkqkL .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 992px) {
+  .cid-rvomYpkqkL .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 6.9rem);
+  }
+}
 .cid-rvomYpkqkL .collapsed button.navbar-toggler {
   display: block;
 }
@@ -4068,6 +4088,11 @@ body {
 .cid-rvomSiQAOw .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 992px) {
+  .cid-rvomSiQAOw .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 6.9rem);
+  }
+}
 .cid-rvomSiQAOw .collapsed button.navbar-toggler {
   display: block;
 }
@@ -4484,6 +4509,11 @@ body {
 .cid-rvob0gXfSy .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-rvob0gXfSy .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-rvob0gXfSy .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 6.9rem);
+  }
 }
 .cid-rvob0gXfSy .collapsed button.navbar-toggler {
   display: block;
