@@ -1433,8 +1433,11 @@ body {
   font-family: 'Rubik', sans-serif;
   font-size: 1.3rem;
 }
+.cid-rwuhuWfZYz H2 {
+  color: #7f2f88;
+}
 .cid-rwvNsFMHXY {
-  padding-top: 0px;
+  padding-top: 15px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -1471,7 +1474,10 @@ body {
   font-size: 17px;
 }
 .cid-rwvNsFMHXY .team-item .item-caption {
-  background: #efefef;
+  background: #7f2f88;
+}
+.cid-rwvNsFMHXY .item-name {
+  color: #ffffff;
 }
 .cid-rwvNur52KD {
   padding-top: 0px;
@@ -1511,7 +1517,10 @@ body {
   font-size: 17px;
 }
 .cid-rwvNur52KD .team-item .item-caption {
-  background: #efefef;
+  background: #7f2f88;
+}
+.cid-rwvNur52KD .item-name {
+  color: #ffffff;
 }
 .cid-rwtunBbs8R {
   padding-top: 15px;
