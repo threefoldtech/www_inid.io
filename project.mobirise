@@ -58,10 +58,12 @@
       "colorLink": "#424a4d",
       "underlineLink": true,
       "opacity": "99",
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+      "text": "We use cookies to give you the best experience. Read our <a href='https://docs.google.com/document/u/1/d/e/2PACX-1vS0gqSHfsNMa5nNcp3r0DSJKXliay2Wl1LrDy9LJsXoLotWnOoPWZRSUsgyhEAL8vBDBHbBV23SYG4v/pub'>cookie policy</a>."
     },
-    "gdpr": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-144554905-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-144554905-1');\r\n</script>\r\n"
+    "gdpr": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-144554905-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-144554905-1');\r\n</script>\r\n",
+    "publishType": "local",
+    "publishPath": "file:///Users/Stela/Documents/GitHub/www_inid.io"
   },
   "pages": {
     "about.html": {
