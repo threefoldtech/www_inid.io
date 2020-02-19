@@ -3,7 +3,11 @@ from Jumpscale import j
 class Package(j.baseclasses.threebot_package):
     """
     to start need to run 
+<<<<<<< HEAD
     kosmos -p "j.tools.threebot_packages.get('www_inid',giturl='https://github.com/threefoldtech/www_inid.io.git',branch='development')"
+=======
+    kosmos -p "j.tools.threebot_packages.get('www_inid',giturl='https://github.com/threefoldtech/www_inid.io.git',branch='master')"
+>>>>>>> 9681bc714bac4a5ae8dec3eab8e21ffe168ec657
     kosmos -p "j.servers.threebot.default.start(web=True, ssl=False)"
     """
     def _init(self, **kwargs):
